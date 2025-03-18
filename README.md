@@ -1,3 +1,8 @@
+![Evolution Diagram](evolution.png)
+
+
+# Upstream README from: aweijnitz/recipe-el_fuego_viviente below:
+
 # El Fuego Viviente Chili Open Sauce
 
 One of my favorite hot sauces is [
